@@ -5,6 +5,8 @@ https://astronvim.com/
 
 ohmyzsh
 
+.zshrc
+
 fzf
 
 change oh my zsh template 
