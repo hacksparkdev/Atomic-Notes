@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to install on Kali linux.md",
+                "file": "Tech Wiki/Github/Github Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Things to install on Kali linux"
+              "title": "Github Commands"
             }
           }
         ],
@@ -179,8 +179,11 @@
   },
   "active": "adac7fa4209ee113",
   "lastOpenFiles": [
-    "Tech Wiki/Pen Testing/Linux Privilege Escalation/Enumeration.md",
+    "Tags/Github.md",
+    "Tech Wiki/Github/Github Commands.md",
     "Things to install on Kali linux.md",
+    "Tech Wiki/Github",
+    "Tech Wiki/Pen Testing/Linux Privilege Escalation/Enumeration.md",
     "README.md",
     "Tech Wiki/TMUX.md",
     "Tech Wiki/Pen Testing/Linux Privilege Escalation/Information Gathering.md",
@@ -204,8 +207,6 @@
     "Tech Wiki/Pen Testing/SQL Injection Hacking.md",
     "Daily Stoic/January 2025/Prompts.md",
     "Tags/SQL Injection.md",
-    "Tags/rsync.md",
-    "Tech Wiki/Pen Testing/Mongo.md",
     "HackStream",
     "HackStream/Wiki JS",
     "Daily Stoic/January 2025",
@@ -219,7 +220,6 @@
     "Images/Screenshot From 2024-12-18 16-29-03.png",
     "Tech Wiki/Pen Testing/Command Injection",
     "Pen Testing Notes/Metasploitable 2",
-    "Pen Testing Notes",
     "Images/k2vhjwhb.bmp",
     "Images/Screenshot 2024-12-09 213526.png",
     "Images/ntd5xnch.bmp",
