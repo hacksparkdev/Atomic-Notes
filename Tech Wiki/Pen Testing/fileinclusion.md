@@ -142,8 +142,29 @@ Session completed.
 
 Now we can see we got the password of `badminton`
 
-Now we can use this witth evil-winrm to get into the box.
+Now we can use this witth evil-winrm to get into the box. We can install it with these steps
 
+#### Rubyand rubygems install 
+
+```bash
+sudo apt update
+sudo apt install ruby-full ruby-dev build-essential
+
+```
+
+#### Install ruby Gems
+
+```bash
+sudo apt install rubygems
+```
+
+#### Install Evil-WinRM gem
+
+```bash
+gem install evil-winrm
+```
+
+Then run the command to get into the box 
 ```bash
 evil-winrm -i 10.129.136.91 -u administrator -p badminton
 ```
