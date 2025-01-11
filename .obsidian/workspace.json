@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Wiki/Pen Testing/mysql.md",
+                "file": "Tech Wiki/Bash/Variable and Parameter Expansion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mysql"
+              "title": "Variable and Parameter Expansion"
             }
           }
         ]
@@ -164,6 +164,8 @@
   },
   "active": "dd479aaf6879a8d9",
   "lastOpenFiles": [
+    "github.sh",
+    "Tech Wiki/Pen Testing/mysql.md",
     "Daily Stoic/January 2025/Prompts.md",
     "Tech Wiki/CTF/Escape_two/scans/firstscan",
     "Tech Wiki/CTF/Escape_two/scans/first",
@@ -172,7 +174,6 @@
     "Tech Wiki/CTF/Escape_two/scripts",
     "Tech Wiki/CTF/Escape_two/scans",
     "Tech Wiki/CTF/Escape_two",
-    "Tech Wiki/Pen Testing/mysql.md",
     "Tech Wiki/Pen Testing/ffuf/Using FUFF.md",
     "Tech Wiki/CTF/sightless/scans/firstscan",
     "Tech Wiki/CTF/silver_platter/notes/note.md",
@@ -199,7 +200,6 @@
     "Tech Wiki/Pen Testing/Linux Privilege Escalation/Enumeration.md",
     "Tech Wiki/TMUX.md",
     "Tech Wiki/Pen Testing/Linux Privilege Escalation/Information Gathering.md",
-    "Tech Wiki/Pen Testing/OpenVas Setup.md",
     "Images/Screenshot From 2024-12-18 16-45-13.png",
     "Images/Screenshot From 2024-12-18 16-12-12.png",
     "Images/Screenshot From 2024-12-18 16-48-06.png",
