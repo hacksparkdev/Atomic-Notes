@@ -34,7 +34,7 @@ ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:F
 ```
 
 # Add to Host File 
-#Add_to_host_file
+#Add_to_host_file10
 
 ```bash
 sudo sh -c 'echo "SERVER_IP academy.htb" >> /etc/hosts'

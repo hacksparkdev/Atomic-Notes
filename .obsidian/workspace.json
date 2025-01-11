@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Wiki/Pen Testing/ffuf/Using FUFF.md",
+                "file": "Tech Wiki/Pen Testing/mysql.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Using FUFF"
+              "title": "mysql"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ffuf",
+                "query": "/etc/host",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,22 +164,27 @@
   },
   "active": "dd479aaf6879a8d9",
   "lastOpenFiles": [
+    "Daily Stoic/January 2025/Prompts.md",
+    "Tech Wiki/CTF/Escape_two/scans/firstscan",
+    "Tech Wiki/CTF/Escape_two/scans/first",
+    "Tech Wiki/CTF/Escape_two/scans/10.10.11.51",
+    "Tech Wiki/CTF/Escape_two/notes",
+    "Tech Wiki/CTF/Escape_two/scripts",
+    "Tech Wiki/CTF/Escape_two/scans",
+    "Tech Wiki/CTF/Escape_two",
+    "Tech Wiki/Pen Testing/mysql.md",
+    "Tech Wiki/Pen Testing/ffuf/Using FUFF.md",
+    "Tech Wiki/CTF/sightless/scans/firstscan",
     "Tech Wiki/CTF/silver_platter/notes/note.md",
+    "Tech Wiki/CTF/sightless/firstscan",
+    "Tech Wiki/CTF/sightless/scripts",
+    "Tech Wiki/CTF/Bandit/Note.md",
     "Tech Wiki/Pen Testing/SearchSploit Reference.md",
-    "Tech Wiki/CTF/silver_platter/scans/Silverpeas",
     "Tech Wiki/Pen Testing/Hacking Wordpress.md",
-    "Tech Wiki/CTF/silver_platter/notes/note.txt",
     "Tech Wiki/Pen Testing/Gobuster.md",
     "Tech Wiki/Pen Testing/Command Injection/Using Burpsuite.md",
     "Tech Wiki/Pen Testing/Command Injection/What is Command Injection.md",
-    "Tech Wiki/Pen Testing/ffuf/Using FUFF.md",
     "Tech Wiki/CTF/Bandit/Walkthrough.md",
-    "Tech Wiki/CTF/silver_platter/scans/firstscan",
-    "Tech Wiki/CTF/silver_platter/scripts",
-    "Tech Wiki/CTF/silver_platter/notes",
-    "Tech Wiki/CTF/silver_platter/scans",
-    "Tech Wiki/CTF/silver_platter",
-    "Tech Wiki/CTF/Bandit/Note.md",
     "Tech Wiki/Pen Testing/Hacking Websites.md",
     "Tech Wiki/Pen Testing/Grep.md",
     "Tech Wiki/Pen Testing/Google Dorking.md",
@@ -188,19 +192,14 @@
     "Tech Wiki/Useful Commands.md",
     "Tech Wiki/Pen Testing/Linux_Commands.md",
     "Tags/OverTheWire.md",
-    "Tech Wiki/CTF/Bandit",
-    "Tech Wiki/CTF",
     "README.md",
     "Things to install on Kali linux.md",
     "Tech Wiki/Github/Github Commands.md",
     "Tags/Github.md",
-    "Tech Wiki/Github",
     "Tech Wiki/Pen Testing/Linux Privilege Escalation/Enumeration.md",
     "Tech Wiki/TMUX.md",
     "Tech Wiki/Pen Testing/Linux Privilege Escalation/Information Gathering.md",
     "Tech Wiki/Pen Testing/OpenVas Setup.md",
-    "Tech Wiki/Pen Testing/Privilege Escalation/Untitled.md",
-    "Tags/Privilege Escalation.md",
     "Images/Screenshot From 2024-12-18 16-45-13.png",
     "Images/Screenshot From 2024-12-18 16-12-12.png",
     "Images/Screenshot From 2024-12-18 16-48-06.png",
