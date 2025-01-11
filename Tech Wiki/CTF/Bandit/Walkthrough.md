@@ -114,4 +114,26 @@ dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 ```
 
+#### Level 12
 
+```Bash
+FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+```
+
+#### Level 13
+
+```Bash
+MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+```
+
+#### Level 14
+
+```Bash
+8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+```
+
+#### Level 15
+
+```Bash
+kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
+```

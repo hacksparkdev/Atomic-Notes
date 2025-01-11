@@ -27,7 +27,7 @@ ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:F
 # Recursive Fuzzing
 
 ```bash
-ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -t 200 -u http://$target/FUZZ -recursion -recursion-depth 1 -e .php -v  
+ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -t 200 -u http://$target:8080/FUZZ -recursion -recursion-depth 1 -e .php -v  
 
 # This will search through directories recursivly. Which means it will look thourgh sub directories.
 

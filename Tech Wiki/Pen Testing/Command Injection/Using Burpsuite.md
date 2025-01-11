@@ -11,7 +11,7 @@ Tags: [[Burpsuite]] [[Command Injection]] [[Cybersecurity]] [[Penetration Testin
 ### Injecting a Command
 We can inject a  command into a web page using  Burpsuite.
 1. We first run the request. 
-2. Then we can catch the request with Burpsuite. You can use `ctrl + r ` to send the request to the repeater. ![[Screenshot From 2024-12-18 16-29-03.png]]
+2. Then we can catch the requ[e]([[]()]())st with Burpsuite. You can use `ctrl + r ` to send the request to the repeater. ![[Screenshot From 2024-12-18 16-29-03.png]]
 3. Now we can inject our command where we want. ![[Screenshot From 2024-12-18 16-30-58.png]]
 4. Here we used the pipe command `%7c` which only shows the second command.
 5. As we can see the command rand and printed `www-data`

@@ -19,3 +19,9 @@ searchsploit -m [Name of exaploit]
 ```
 
 
+### View before you download
+
+```bash
+searchsploit -x [path/to/exploit]
+```
+
