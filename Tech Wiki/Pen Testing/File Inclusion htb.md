@@ -1,6 +1,4 @@
-# File Inclusion NTLM
-
-
+Tags: [[File Inclusion]] [[Penetration Test]] [[Cybersecurity]]
 ### Notes From box
 
 Nmap scan report for 10.129.31.164
