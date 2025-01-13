@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Wiki/Pen Testing/File Inclusion htb.md",
+                "file": "Boxes/underpass/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File Inclusion htb"
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "60d04382b281fb3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech Wiki/Pen Testing/ffuf/Using FUFF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Using FUFF"
+            }
+          },
+          {
+            "id": "3827794f6b3a8df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Things I need to study for CompTIA A+.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things I need to study for CompTIA A+"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/etc/host",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,53 +191,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd479aaf6879a8d9",
+  "active": "3827794f6b3a8df6",
   "lastOpenFiles": [
-    "HacksmartNotes/CTFworkshop.md",
-    "HacksmartNotes",
-    "Tags/Penetration Test.md",
-    "Tech Wiki/Pen Testing/File Inclusion htb.md",
-    "Tags/File Inclusion.md",
-    "Tech Wiki/Bash/Variable and Parameter Expansion.md",
-    "Tech Wiki/Pen Testing/Responder/utils.py",
-    "Tech Wiki/Pen Testing/Responder/tools/MultiRelay/impacket-dev/impacket/dcerpc/v5/dcom/wmi.py",
-    "Tech Wiki/Pen Testing/Responder/tools/MultiRelay/impacket-dev/impacket/dcerpc/v5/dcom/vds.py",
-    "Tech Wiki/Pen Testing/Responder/tools/MultiRelay/impacket-dev/impacket/dcerpc/v5/dcom/scmp.py",
-    "Tech Wiki/Pen Testing/Responder/tools/MultiRelay/impacket-dev/impacket/dcerpc/v5/dcom/oaut.py",
-    "Tech Wiki/Pen Testing/Responder/tools/MultiRelay/impacket-dev/impacket/dcerpc/v5/dcom/comev.py",
-    "Tech Wiki/Pen Testing/Responder/tools/MultiRelay/impacket-dev/impacket/dcerpc/v5/dcom/__init__.py",
-    "Tech Wiki/Pen Testing/Responder/tools/MultiRelay/impacket-dev/impacket/dcerpc/v5/wkst.py",
-    "Tech Wiki/Pen Testing/Responder/tools/MultiRelay/impacket-dev/impacket/dcerpc/v5/tsch.py",
-    "Tech Wiki/Pen Testing/Responder/README.md",
-    "Tech Wiki/Pen Testing/Responder/CHANGELOG.md",
-    "Tech Wiki/Pen Testing/mysql.md",
-    "Daily Stoic/January 2025/Prompts.md",
     "Tech Wiki/Pen Testing/ffuf/Using FUFF.md",
+    "Things I need to study for CompTIA A+.md",
+    "Boxes/underpass/Notes.md",
+    "images/Pasted image 20250112124740.png",
     "Tech Wiki/CTF/silver_platter/notes/note.md",
-    "Tech Wiki/CTF/Bandit/Note.md",
     "Tech Wiki/Pen Testing/SearchSploit Reference.md",
-    "Tech Wiki/Pen Testing/Hacking Wordpress.md",
-    "Tech Wiki/Pen Testing/Gobuster.md",
+    "Boxes/underpass/9993.txt",
+    "Boxes/underpass/46676.php",
+    "images/Pasted image 20250112163403.png",
+    "Boxes/silverplatter/notes.md",
+    "Boxes/underpass",
+    "Boxes/UnderPass.md",
+    "Boxes/Untitled.md",
+    "Tags/Box Notes.md",
+    "Boxes/Cap/notes.md",
+    "images/Pasted image 20250112151548.png",
+    "images/Pasted image 20250112151409.png",
+    "images/Pasted image 20250112150545.png",
+    "Tech Wiki/Pen Testing/LinPeas Notes.md",
+    "Tags/Linpeas.md",
+    "Tech Wiki/Pen Testing/Linux Privilege Escalation/Enumeration.md",
+    "Tech Wiki/Pen Testing/Command Injection/Executing Filter Evasion.md",
     "Tech Wiki/Pen Testing/Command Injection/Using Burpsuite.md",
     "Tech Wiki/Pen Testing/Command Injection/What is Command Injection.md",
-    "Tech Wiki/CTF/Bandit/Walkthrough.md",
-    "Tech Wiki/Pen Testing/Hacking Websites.md",
-    "Tech Wiki/Pen Testing/Grep.md",
-    "Tech Wiki/Pen Testing/Google Dorking.md",
-    "Tech Wiki/Pen Testing/Authentication bypass.md",
-    "Tech Wiki/Useful Commands.md",
-    "Tech Wiki/Pen Testing/Linux_Commands.md",
-    "Tags/OverTheWire.md",
-    "README.md",
-    "Images/Screenshot From 2024-12-18 16-45-13.png",
-    "Images/Screenshot From 2024-12-18 16-12-12.png",
-    "Images/Screenshot From 2024-12-18 16-48-06.png",
-    "Images/Screenshot From 2024-12-18 16-30-58.png",
-    "Images/Screenshot From 2024-12-18 16-29-03.png",
-    "Images/k2vhjwhb.bmp",
-    "Images/Screenshot 2024-12-09 213526.png",
-    "Images/ntd5xnch.bmp",
-    "Images/okv907or.bmp",
-    "Images/1me33y7g.bmp"
+    "Tech Wiki/Pen Testing/Command Injection/Command Injection Prevention.md",
+    "Tech Wiki/Pen Testing/Command Injection/Blacklisted Commands Obfuscation.md",
+    "HacksmartNotes/CTFworkshop.md",
+    "images/Pasted image 20250112114251.png",
+    "images/Pasted image 20250112115112.png",
+    "images/Pasted image 20250112114939.png",
+    "images/Pasted image 20250112102828.png",
+    "images",
+    "Boxes/Cap",
+    "images/Pasted image 20250112111951.png",
+    "Boxes/silverplatter/passwords.txt",
+    "Tech Wiki/CTF/Bandit/Note.md",
+    "Daily Stoic/January 2025/Prompts.md",
+    "Tech Wiki/Pen Testing/mysql.md",
+    "Tech Wiki/Bash/Variable and Parameter Expansion.md",
+    "Tech Wiki/Pen Testing/File Inclusion htb.md",
+    "Tech Wiki/Pen Testing/rustscannotes.md",
+    "Tech Wiki/Pen Testing/TMUX.md",
+    "Boxes/silverplatter",
+    "Boxes",
+    "HacksmartNotes",
+    "Tech Wiki/Pen Testing/Responder/utils.py"
   ]
 }

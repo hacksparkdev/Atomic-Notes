@@ -5,4 +5,4 @@ dirsearch /usr/share
 Caido
 flameshot
 
-
+cewl
