@@ -1,3 +1,7 @@
+---
+banner: "![[what-is-active-directory-and-why-is-it-used.png]]"
+---
+
 Tags: [[Active Directory]] [[Organizational Units]] 
 
 ## Setting OUs with PowerShell

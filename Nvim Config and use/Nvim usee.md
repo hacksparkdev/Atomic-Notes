@@ -105,4 +105,22 @@ Let me know if you have any additional questions or changes you'd like!
 
 `p`
 
+## Copy all contents of a file 
+2. Enter Visual Mode:
 
+    Visual Mode allows you to highlight text.
+        Press v to start visual mode and then navigate through the text you want to copy.
+
+3. Select All (Visual Block Mode):
+
+    You can select all content at once by entering visual block mode:
+        Press CTRL + V to enter visual block mode.
+        Then, use the arrow keys to select the entire text.
+
+4. Copy the Selected Text:
+
+    Once the entire text is selected, press y to copy the highlighted content.
+
+5. Paste the Copied Content:
+
+    You can now paste the copied content anywhere (in a different editor or terminal) using CTRL + V.

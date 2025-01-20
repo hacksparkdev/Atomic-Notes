@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nvim Config and use/Nvim use.md",
-                "mode": "source",
+                "file": "Nvim Config and use/Nvim usee.md",
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nvim use"
+              "title": "Nvim usee"
             }
           }
         ]
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ftp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Wiki/Pen Testing/Command Injection/Using Burpsuite.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Using Burpsuite"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -144,6 +145,16 @@
               "icon": "lucide-list",
               "title": "Outline of Using Burpsuite"
             }
+          },
+          {
+            "id": "14e1de27bf9aa3f9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -164,8 +175,26 @@
   },
   "active": "3827794f6b3a8df6",
   "lastOpenFiles": [
-    "Things I need to study for CompTIA A+.md",
+    "Tech Wiki/Bash/Lists.md",
+    "Tech Wiki/Bash/Introductions.md",
+    "Tech Wiki/Bash/How Bash Processes Command Lines.md",
+    "Tech Wiki/Bash/Expansions.md",
+    "Tech Wiki/Bash/Arithmetic.md",
+    "Tech Wiki/Bash/Command Substitution.md",
+    "Tech Wiki/Bash/Command Identification.md",
+    "Tech Wiki/Active Directory/Setting Up OUs.md",
+    "images/what-is-active-directory-and-why-is-it-used.png",
+    "Projects/Active Directory/Active Directory Device information.md",
+    "Daily Stoic/January 2025/Prompts.md",
+    "Untitled.md",
     "Nvim Config and use/Nvim use.md",
+    "Things I need to study for CompTIA A+.md",
+    "Tech Wiki/CTF/backfire/notes/notes.md",
+    "Tech Wiki/CTF/backfire/scans/firstscan",
+    "Tech Wiki/CTF/backfire/notes",
+    "Tech Wiki/CTF/backfire/scripts",
+    "Tech Wiki/CTF/backfire/scans",
+    "Tech Wiki/CTF/backfire",
     "Nvim Config and use",
     "Tech Wiki/Pen Testing/File Inclusion/Local File inclusion.md",
     "Random CompTIA Notes.md",
@@ -186,29 +215,11 @@
     "images/Pasted image 20250116173945.png",
     "images/Pasted image 20250116173919.png",
     "images/Pasted image 20250116173839.png",
-    "HacksmartNotes/CTFworkshop.md",
-    "Tags/Javascript.md",
-    "Daily Stoic/January 2025/Prompts.md",
     "Tech Wiki/Pen Testing/Javascript Deobfuscation",
-    "Boxes/silverplatter/notes.md",
     "images/Pasted image 20250113175654.png",
-    "README.md",
     "images/Pasted image 20250113175731.png",
-    "Tech Wiki/Pen Testing/ffuf/Using FUFF.md",
-    "Boxes/underpass/Notes.md",
     "images/Pasted image 20250112124740.png",
-    "Tech Wiki/CTF/silver_platter/notes/note.md",
-    "Tech Wiki/Pen Testing/SearchSploit Reference.md",
     "Boxes/underpass/9993.txt",
-    "Boxes/underpass/46676.php",
-    "images/Pasted image 20250112163403.png",
-    "Boxes/underpass",
-    "Boxes/UnderPass.md",
-    "Boxes/Untitled.md",
-    "Tags/Box Notes.md",
-    "images",
-    "Boxes/Cap",
-    "Boxes/silverplatter/passwords.txt",
-    "Boxes/silverplatter"
+    "Boxes/underpass/46676.php"
   ]
 }

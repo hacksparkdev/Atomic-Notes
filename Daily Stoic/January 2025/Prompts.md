@@ -1,4 +1,4 @@
-.Tags: [[Stoicism]] [[Philosophy]] [[Journal]] [[January2025]]
+Tags: [[Stoicism]] [[Philosophy]] [[Journal]] [[January2025]]
 
 Here’s a list of prompts for the entire month of January, inspired by the meditations in *The Daily Stoic*. January focuses on the theme of **Clarity** and understanding what is within our control.
 
