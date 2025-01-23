@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "showLineNumber": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true
 }
