@@ -11,15 +11,12 @@
             "id": "3827794f6b3a8df6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Tech Wiki/Pen Testing/File Inclusion/Basic Bypass.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "uploads/network Cabeling.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Basic Bypass"
+              "icon": "lucide-file-text",
+              "title": "network Cabeling"
             }
           }
         ]
@@ -176,6 +173,8 @@
   "active": "3827794f6b3a8df6",
   "lastOpenFiles": [
     "uploads/RB 2025-01-22 21.23.28.pdf",
+    "uploads/network Cabeling.pdf",
+    "Tech Wiki/Pen Testing/File Inclusion/Basic Bypass.md",
     "Passwords and shit.md",
     "uploads/RB 2025-01-22 21.23.28.pdf-transcription-beta.txt",
     "uploads/������.pdf",
@@ -183,7 +182,6 @@
     "uploads/RB 2025-01-22 20.34.30.pdf",
     "uploads/RB 2025-01-22 20.32.21.pdf",
     "uploads",
-    "Tech Wiki/Pen Testing/File Inclusion/Basic Bypass.md",
     "Reference Material",
     "images/Pasted image 20250120123836.png",
     "Tech Wiki/Pen Testing/File Inclusion/Local File inclusion.md",
