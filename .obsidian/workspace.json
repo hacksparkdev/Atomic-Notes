@@ -11,12 +11,15 @@
             "id": "3827794f6b3a8df6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "uploads/network Cabeling.pdf"
+                "file": "Nvim Config and use/Nvim usee.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "network Cabeling"
+              "icon": "lucide-file",
+              "title": "Nvim usee"
             }
           }
         ]
@@ -172,8 +175,8 @@
   },
   "active": "3827794f6b3a8df6",
   "lastOpenFiles": [
-    "uploads/RB 2025-01-22 21.23.28.pdf",
     "uploads/network Cabeling.pdf",
+    "uploads/RB 2025-01-22 21.23.28.pdf",
     "Tech Wiki/Pen Testing/File Inclusion/Basic Bypass.md",
     "Passwords and shit.md",
     "uploads/RB 2025-01-22 21.23.28.pdf-transcription-beta.txt",

@@ -1,4 +1,4 @@
-Tags: [[nvim]] 
+gTags: [[nvim]] 
 Here's a detailed list of the plugins added, how to use them, and all the key bindings configured or changed in the updated `polish.lua`:
 
 ---
