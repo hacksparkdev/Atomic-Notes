@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "uploads/Te ephone & Coaxial Cable.pdf"
+                "file": "uploads/fiber optic cable.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Te ephone & Coaxial Cable"
+              "title": "fiber optic cable"
             }
           }
         ]
@@ -172,10 +172,10 @@
   },
   "active": "3827794f6b3a8df6",
   "lastOpenFiles": [
-    "uploads/RB 2025-01-22 21.23.28.pdf",
-    "uploads/fiber optic cable.pdf",
     "uploads/network Cabeling.pdf",
+    "uploads/RB 2025-01-22 21.23.28.pdf",
     "uploads/Te ephone & Coaxial Cable.pdf",
+    "uploads/fiber optic cable.pdf",
     "Tech Wiki/Powershell/Install power shell and use.md",
     "Tags/Powershell.md",
     "Tech Wiki/Powershell",
