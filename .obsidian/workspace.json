@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "uploads/fiber optic cable.pdf"
+                "file": "uploads/US6 Standards, Cables, & Connectors [Comptia At].pdf"
               },
               "icon": "lucide-file-text",
-              "title": "fiber optic cable"
+              "title": "US6 Standards, Cables, & Connectors [Comptia At]"
             }
           }
         ]
@@ -173,9 +173,10 @@
   "active": "3827794f6b3a8df6",
   "lastOpenFiles": [
     "uploads/network Cabeling.pdf",
+    "uploads/fiber optic cable.pdf",
+    "uploads/US6 Standards, Cables, & Connectors [Comptia At].pdf",
     "uploads/RB 2025-01-22 21.23.28.pdf",
     "uploads/Te ephone & Coaxial Cable.pdf",
-    "uploads/fiber optic cable.pdf",
     "Tech Wiki/Powershell/Install power shell and use.md",
     "Tags/Powershell.md",
     "Tech Wiki/Powershell",
